@@ -42,6 +42,11 @@ j'ai créé les deux commits.
 exercice 2
 2.a j'ai créé le fichier oups.md avec la commande touch oups.md
 pour retourner au tag git-seance3.init j'ai utilisé git reset --soft git-seance3-init
+2.b
+j'ai recopier le contenu de oups.md.
+pour supprimer le fichier oups.md j'ai utilisé la commande rm oups.md
+
+
 
 
 
