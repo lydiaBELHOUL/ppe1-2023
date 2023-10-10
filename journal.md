@@ -14,3 +14,19 @@ J'ai refait toutes les étapes des exercices pour pouvoir me remettre à niveau.
 
 j'ai cloné mon dépôt git en copiant le lien vers mon compte et en utilisant la commande git clone https://github.com/lydiaBELHOUL/ppe1-2023 il
 m'a demandé de rentrer mon mot de pass
+
+j'ai effectué les modifications sur le journal de bord .
+je fais git status pour verifier si je suis à jour.
+là je ne le suis pas.
+
+
+git add journal.md
+git commit -m "modifications du journal de bord"
+git push
+et là j'ai pousser les modification efféctuées  localement dans le dépot en ligne.
+
+
+
+# séance 3
+
+
