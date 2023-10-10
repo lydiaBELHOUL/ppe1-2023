@@ -29,8 +29,7 @@ et là j'ai pousser les modification efféctuées  localement dans le dépot en 
 
 
 # séance 3
-
-je rajoute des commit à supprimer plus tard
+suite de l séance 3
 
 
 
