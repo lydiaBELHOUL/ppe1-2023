@@ -30,6 +30,13 @@ et là j'ai pousser les modification efféctuées  localement dans le dépot en 
 
 # séance 3
 suite de l séance 3
+1.a
 
+j'ai créé les deux commits.
+1.b
+  pour récupèrer l'identifiant SHA on utilise git log
+  pour l'annuler on utilise git revert
+
+1.c
 
 
