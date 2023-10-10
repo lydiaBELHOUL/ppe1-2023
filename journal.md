@@ -37,6 +37,7 @@ j'ai créé les deux commits.
   pour récupèrer l'identifiant SHA on utilise git log
   pour l'annuler on utilise git revert
 
-1.c
+1.c j'ai créé le tag git-seance3-init
+
 
 
