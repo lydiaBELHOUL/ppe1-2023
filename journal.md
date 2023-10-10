@@ -37,6 +37,12 @@ j'ai créé les deux commits.
   pour récupèrer l'identifiant SHA on utilise git log
   pour l'annuler on utilise git revert
 
-1.c
+1.c j'ai créé le tag git-seance3-init
+
+exercice 2
+2.a j'ai créé le fichier oups.md avec la commande touch oups.md
+pour retourner au tag git-seance3.init j'ai utilisé git reset --soft git-seance3-init
+
+
 
 
