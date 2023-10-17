@@ -39,5 +39,18 @@ j'ai créé les deux commits.
 
 1.c j'ai créé le tag git-seance3-init
 
+exercice 2
+2.a j'ai créé le fichier oups.md avec la commande touch oups.md
+pour retourner au tag git-seance3.init j'ai utilisé git reset --soft git-seance3-init
+2.b
+j'ai recopier le contenu de oups.md.
+pour supprimer le fichier oups.md j'ai utilisé la commande rm oups.md
+
+# séance 4
+pour les exercices de la séance4
+j'ai créer 4 scripts que j'ai executé sur le fishier ann.
+j'ai eu un problème avec le mot de passe de la clé ssh alors j'ai dû la supprimer et génèrer une nouvelle.
+Désolée pour le retard .
+
 
 
