@@ -52,5 +52,7 @@ j'ai créer 4 scripts que j'ai executé sur le fishier ann.
 j'ai eu un problème avec le mot de passe de la clé ssh alors j'ai dû la supprimer et génèrer une nouvelle.
 Désolée pour le retard .
 
-
+# séance5
+j'ai modifié les scripts de la séance 4 en insèrant un test sur le nombre d'arguments.
+pour ce qui est du projet je suis de Nanterre et je n'ai pas de groupe.
 
