@@ -56,3 +56,12 @@ Désolée pour le retard .
 j'ai modifié les scripts de la séance 4 en insèrant un test sur le nombre d'arguments.
 pour ce qui est du projet je suis de Nanterre et je n'ai pas de groupe.
 
+# séance 6
+exo1
+1-on a pas utilisé la commande cat puisque celle-ci affiche le contenu du fichier miniprojet.sh et nous voulons l'exécuter.
+
+2-pour transformer le fichier "urls/fr.txt" en paramètre du script on ajoute une variable "chemin" qui va contenir le chemin vers le fichier.
+script miniprojet1.sh
+2.1) il faudra faire un test sur le nombre d'argument qui devra être égale à un sinon on affiche un message d'erreur et exit et cela avec if .
+3)pour afficher le numéro de ligne avant chaque url et cela en utilisant un compteur lineno et expr pour l'incrémenter.
+puis la commande curl -I sur $line sur chaque ligne de notre fichier.
