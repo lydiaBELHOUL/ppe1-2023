@@ -61,7 +61,13 @@ exo1
 1-on a pas utilisé la commande cat puisque celle-ci affiche le contenu du fichier miniprojet.sh et nous voulons l'exécuter.
 
 2-pour transformer le fichier "urls/fr.txt" en paramètre du script on ajoute une variable "chemin" qui va contenir le chemin vers le fichier.
-script miniprojet1.sh
+script fichier_en_parametre.sh
+
 2.1) il faudra faire un test sur le nombre d'argument qui devra être égale à un sinon on affiche un message d'erreur et exit et cela avec if .
-3)pour afficher le numéro de ligne avant chaque url et cela en utilisant un compteur lineno et expr pour l'incrémenter.
-puis la commande curl -I sur $line sur chaque ligne de notre fichier.
+
+3)pour afficher le numéro de ligne avant chaque url et cela en utilisant un compteur lineno et expr pour l'incrémenter \t pour séparer avec une tabulation c'est dans le script miniprojet1.sh.
+
+exo2
+1) pour afficher le code http de réponse à la requête c'est le script miniprojet.sh qui utilise la commande curl -I $line sur chaque ligne de notre fichier.
+
+2)pour afficher l'encodage c'est encodage.sh et cela en mettant " curl -s $line | grep "<meta" | head -1 )"
