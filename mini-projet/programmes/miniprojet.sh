@@ -1,7 +1,7 @@
 
 #!/usr/bin/env bash
 chemin=$1
-compt=1
+lineno=1
 if [ $# -eq 1 ]
 then
 
@@ -9,8 +9,8 @@ then
 	do
 
 		HTTP=$( curl -I $line )
-		echo -e "${compt} \t$HTTP"
-		compt=$(expr $compt + 1)
+		echo -e "${lineno} \t$HTTP"
+		compt=$(expr $lineno + 1)
 	done < $1
 else
 	echo "aucun fichier"
